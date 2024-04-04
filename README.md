@@ -37,3 +37,4 @@ To set up the Jenkins job, follow the documentation in the ci-cd directory.
 
 Contributing
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+![image](https://github.com/Sandeepru/Deploy-Three-Tier-Web-Application-using-Terraform/assets/156737787/09618fc7-0fd3-4950-b1a7-b5701f1accfd)
